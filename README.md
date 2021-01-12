@@ -1,6 +1,7 @@
 # 42-cursus
 
-- [submit](https://github.com/sujeon42/submit.git)
+- [Submit](https://github.com/sujeon42/submit.git)
+- [Test](https://github.com/Kwevan/42-Tests)
 
 ---
 
