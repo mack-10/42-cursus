@@ -5,13 +5,13 @@
 
 ---
 
-## 0 Circle
+### 0 Circle
 
 - [Libft](https://github.com/sujeon42/libft.git)
 
 ---
 
-## 1 Circle
+### 1 Circle
 
 - [get_next_line](https://github.com/sujeon42/get_next_line.git)
 
@@ -19,6 +19,8 @@
 
 - [netwhat](https://github.com/sujeon42/netwhat.git)
 
-## 2 Circle
+---
+
+### 2 Circle
 
 - [ft_server](https://github.com/sujeon42/ft_server.git)
