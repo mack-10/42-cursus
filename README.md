@@ -17,7 +17,7 @@
 
 - [ft_printf](https://github.com/sujeon42/ft_printf.git)
 
-- netwhat
+- [netwhat](https://github.com/sujeon42/netwhat.git)
 
 ## 2 Circle
 
