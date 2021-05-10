@@ -1,6 +1,6 @@
 # 42-cursus
 
-- [Test](https://github.com/Kwevan/42-Tests)
+- [Subject_Tester](https://github.com/Kwevan/42-Tests)
 
 ---
 
