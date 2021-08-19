@@ -17,4 +17,4 @@
 | 3 | [exam rank 03](https://github.com/sujeon42/exam03.git)          |    |
 |   | [libasm](https://github.com/sujeon42/libasm.git)                |    |
 |   | [minishell](https://github.com/sujeon42/minishell_and_malatang) | ✅ |
-|   | ~~Philosophers~~                                                |    |
+|   | [Philosophers](https://github.com/sujeon42/philosophers)        | ✅ |
