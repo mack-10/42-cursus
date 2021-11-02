@@ -16,5 +16,7 @@
 |   | [push_swap](https://github.com/sujeon42/push_swap.git)          |    |
 | 3 | [exam rank 03](https://github.com/sujeon42/exam03.git)          |    |
 |   | [libasm](https://github.com/sujeon42/libasm.git)                |    |
-|   | [minishell](https://github.com/sujeon42/minishell_and_malatang) | ✅ |
-|   | [Philosophers](https://github.com/sujeon42/philosophers)        | ✅ |
+|   | [minishell](https://github.com/sujeon42/minishell_and_malatang) |    |
+|   | [Philosophers](https://github.com/sujeon42/philosophers)        |    |
+| 4 | [Exam Rank 04]() | |
+|   | [CPP Module 00-08](https://github.com/42sujeon/cpp)             | ✅ |
