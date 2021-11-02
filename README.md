@@ -10,11 +10,11 @@
 | 1 | [get_next_line](https://github.com/sujeon42/get_next_line.git)  |    |
 |   | [ft_printf](https://github.com/sujeon42/ft_printf.git)          |    |
 |   | [netwhat](https://github.com/sujeon42/netwhat.git)              |    |
-| 2 | [exam rank 02](https://github.com/42sujeon/42-Exam/tree/master/exam02)| |
+| 2 | [Exam Rank 02](https://github.com/42sujeon/42-Exam/tree/master/exam02)| |
 |   | [ft_server](https://github.com/sujeon42/ft_server.git)          |    |
 |   | [cub3d](https://github.com/sujeon42/cub3d.git)                  |    |
 |   | [push_swap](https://github.com/sujeon42/push_swap.git)          |    |
-| 3 | [exam rank 03](https://github.com/42sujeon/42-Exam/tree/master/exam03)| |
+| 3 | [Exam Rank 03](https://github.com/42sujeon/42-Exam/tree/master/exam03)| |
 |   | [libasm](https://github.com/sujeon42/libasm.git)                |    |
 |   | [minishell](https://github.com/sujeon42/minishell_and_malatang) |    |
 |   | [Philosophers](https://github.com/sujeon42/philosophers)        |    |
