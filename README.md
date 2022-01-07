@@ -1,9 +1,5 @@
 # 42-cursus
 
-- [Subject_Tester](https://github.com/Kwevan/42-Tests)
-
----
-
 | Circle | Subject | Working |
 | :--: | --- | :--: |
 | 0 | [Libft](https://github.com/sujeon42/libft.git)                  |    |
@@ -19,4 +15,4 @@
 |   | [minishell](https://github.com/sujeon42/minishell_and_malatang) |    |
 |   | [Philosophers](https://github.com/sujeon42/philosophers)        |    |
 | 4 | Exam Rank 04                                                    | ✅ |
-|   | [CPP Module 00-08](https://github.com/42sujeon/cpp)             |    |
+|   | [CPP Module 00~08](https://github.com/42sujeon/cpp)             |    |
